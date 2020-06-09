@@ -1,0 +1,15 @@
+{
+	"name": "carlosruesta/projeto-teste-pacote-buscador",
+	"description": "Testes",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Carlos Ruesta",
+			"email": "carlos_ruesta@yahoo.es"
+		}
+	],
+	"require": {
+		"carlosruesta/buscador-cursos": "^1.0"
+	}
+}
